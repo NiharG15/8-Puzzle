@@ -6,4 +6,4 @@ It has been tested with Python 3.6.
 
 ## Preview
 
-[![asciicast](https://asciinema.org/a/ekYBmBYaWjO3EdQ6BZt1UWIHU.png)](https://asciinema.org/a/ekYBmBYaWjO3EdQ6BZt1UWIHU)
+[![asciicast](https://asciinema.org/a/EjMAKuDtUqpkU7H3qiOhCGGis.svg)](https://asciinema.org/a/EjMAKuDtUqpkU7H3qiOhCGGis)
